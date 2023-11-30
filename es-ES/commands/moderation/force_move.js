@@ -3,7 +3,7 @@ export default {
         move: "Movido por: {var1}"
     },
     content: {
-        sucessMove: "{var1} movido com sucesso para a call {var2}",
-        notInCall: "O membro {var1} não está em uma call"
+        sucessMove: "{var1} movido exitosamente para llamar {var2}",
+        notInCall: "El miembro {var1} no está en una llamada"
     }
 }

@@ -1,32 +1,32 @@
 export default {
     embeds: [
         {
-            title: "Informações do servidor",
+            title: "información del servidor",
             fields: [
-                { name: "Nome" },
-                { name: "Dono" },
-                { name: "Membros" },
+                { name: "Nombre" },
+                { name: "Dueño" },
+                { name: "Miembros" },
                 {
-                    name: "Canais",
-                    value: "<:textchannel:1169101383828512768> Texto: {var1}\n <:Discord_voice_dark:1169101065287893002> Voz: {var2}"
+                    name: "Canales",
+                    value: "<:textchannel:1169101383828512768> : {var1}\n <:Discord_voice_dark:1169101065287893002> Voz: {var2}"
                 },
-                { name: "Criado em" },
-                { name: "Nivel de verificação" },
-                { name: "Entrei aqui em" },
-                { name: "Cargos" },
+                { name: "Creado en" },
+                { name: "Nivel de verificación" },
+                { name: "Yo entré aquí" },
+                { name: "Roles" },
                 { name: "Emojis" },
-                { name: "Figurinhas" },
-                { name: "Banimentos" }
+                { name: "Pegatinas" },
+                { name: "Prohibiciones" }
             ]
         }
     ],
     errors: {
-        noGuild: "Desculpa, mas eu não conheço nenhum servidor com o id {var1} :sob:"
+        noGuild: "Lo siento, pero no conozco ningún servidor con el id {var1} :sob:"
     },
     components: {
         buttons: [
             {
-                label: "Mostrar cargos do sevidor"
+                label: "Mostrar roles de servidor"
             }
         ]
     }

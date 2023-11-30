@@ -1,23 +1,23 @@
 export default {
     contents: {
-        createTicket: "Criando ticket",
-        noFindCategory: "Não encontrei a categoria para abrir o ticket",
-        ticketAlreadyOpen: "Você já possue um ticket aberto nesta categoria",
-        sucessCreate: "Ticket criado com sucesso"
+        createTicket: "Creando ticket",
+        noFindCategory: "No pude encontrar la categoría para abrir el ticket.",
+        ticketAlreadyOpen: "Ya tienes un ticket abierto en esta categoría",
+        sucessCreate: "Boleto creado exitosamente"
     },
     embeds: [
         {
             title: "Ticket de {var1}",
-            description: "Clique em 🔒 para fechar o ticket"
+            description: "Haga clic en 🔒 para cerrar el ticket"
         }
     ],
     components: {
         buttons: [
             {
-                label: "🔒 Fechar ticket"
+                label: "🔒 Cerrar ticket"
             },
             {
-                label: "Atalho para o Ticket"
+                label: "Acceso directo al ticket"
             }
         ]
     }

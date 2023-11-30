@@ -1,5 +1,5 @@
 export default {
     content: {
-        msg: "Este comando foi migrado para a dashboard temporaria"
+        msg: "Este comando se ha migrado al panel temporal."
     }
 }

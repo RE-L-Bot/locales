@@ -1,5 +1,5 @@
 export default {
     content: {
-        idioma: "Okay agora eu falarei português"
+        idioma: "ok ahora hablaré español"
     }
 }

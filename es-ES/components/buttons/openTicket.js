@@ -1,13 +1,13 @@
 export default {
     embeds: [
         {
-            description: "Ticket aberto por {var1}\nClique em 🔒 para fechar o ticket"
+            description: "Ticket abierto por {var1}\nHaga clic en 🔒 para cerrar el ticket"
         }
     ],
     components: {
         buttons: [
             {
-                label: "🔒 Fechar ticket"
+                label: "🔒 Cerrar ticket"
             }
         ]
     }

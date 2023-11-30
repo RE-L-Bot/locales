@@ -1,27 +1,27 @@
 export default {
     embeds: [
         {
-            description: "{var1} saiu de um canal para outro",
+            description: "{var1} pasó de un canal a otro",
             fields: [
                 {
-                    name: "Canal Antigo",
+                    name: "Canal viejo",
                     value: "`{var1}`"
                 },
                 {
-                    name: "Canal Novo",
+                    name: "Nuevo canal",
                     value: "`{var1}`"
                 },
                 {
-                    name: "Quantidade de membros no canal antigo",
-                    value: "`{var1} membros`"
+                    name: "Número de miembros en el canal antiguo",
+                    value: "`{var1} miembros`"
                 },
                 {
-                    name: "Quantidade de membros no canal novo",
-                    value: "`{var1} membros`"
+                    name: "Número de miembros en el nuevo canal.",
+                    value: "`{var1} miembros`"
                 }
             ],
             footer: {
-                text: "Id do membro: {var1}"
+                text: "Id de mimbro: {var1}"
             }
         }
     ]

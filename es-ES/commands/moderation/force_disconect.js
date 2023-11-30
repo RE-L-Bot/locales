@@ -1,9 +1,9 @@
 export default {
     log: {
-        disconnect: "Disconectado por: {var1}"
+        disconnect: "Desconectado por: {var1}"
     },
     content: {
-        sucessDisconnect: "{var1} desconectado com sucesso",
-        notInCall: "O membro {var1} não está em uma call"
+        sucessDisconnect: "{var1} desconectado exitosamente",
+        notInCall: "El miembro {var1} no está en una llamada"
     }
 }

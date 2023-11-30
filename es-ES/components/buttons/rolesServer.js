@@ -1,7 +1,7 @@
 export default {
     embeds: [
         {
-            title: "Cargos do servidor"
+            title: "Roles do servidor"
         }
     ]
 }

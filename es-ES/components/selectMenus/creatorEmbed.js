@@ -1,85 +1,85 @@
 export default {
     cases: [
         {
-            content: "Embed Cancelada, podes criar uma nova"
+            content: "Insertar Cancelado, puedes crear uno nuevo"
         },
         {
             contents: {
-                nameAuthor: "Envie o nome do autor ou cancelar",
+                nameAuthor: "Enviar nombre del autor o cancelar",
                 cancelAuthor: "Autor cancelado",
-                urlImage: "Envie o url da imagem do author ou \"pular\"",
-                imageSkip: "Imagem do author pulado",
-                urlErr: "**Url invalida**",
-                urlInc: "Envie o url de incorporação do author ou \"pular\"",
-                urlIncSkip: "Link de incorporação do author pulado"
+                urlImage: "Envíe la URL de la imagen del autor o \"saltar\"",
+                imageSkip: "Imagen del autor saltando.",
+                urlErr: "**URL invalida**",
+                urlInc: "Enviar URL para insertar del autor o \"omitir\"",
+                urlIncSkip: "Omisión del enlace para insertar del autor"
             }
         },
         {
             contents: {
-                title: "Envie o titulo ou cancelar",
-                cancelTitle: "Titulo cancelado"
+                title: "Enviar título o cancelar",
+                cancelTitle: "Título cancelado"
             }
         },
         {
             contents: {
-                maxFields: "Limite máximo de campos adicionado",
-                emptyField: "Você quer inserir um campo vazio? (s ou n)",
-                nameField: "Insira o nome do campo",
-                valueField: "Insira o valor do campo",
-                inlineField: "Deseja o campo alinhado? (s ou n)"
+                maxFields: "Límite máximo de campo agregado",
+                emptyField: "¿Quieres insertar un campo vacío? (s o n)",
+                nameField: "Introduzca el nombre del campo",
+                valueField: "Ingrese el valor del campo",
+                inlineField: "¿Quieres que el campo esté alineado? (s o n)"
             }
         },
         {
-            content: "Qual a posição do campo que você quer remover?(1,2,3...)"
+            content: "¿Qué posición del campo quieres eliminar? (1,2,3...)"
         },
         {
             contents: {
                 colors: `
-Selecione a cor
-1- Verde
-2- Vermelho
-3- Roxo
-4- Azul
+Seleccionar el color
+1-verde
+2- rojo
+3- Morado
+4- azul
 5- Blurple
-6- Sua cor em hex
+6- Tu color en hexadecimal
 `,
-                hexColor: "Envie a cor em hex agora",
-                invalidColor: "Cor invalida"
+                hexColor: "Envía el color en hexadecimal ahora",
+                invalidColor: "Color no válido"
             }
         },
         {
             contents: {
-                description: "Digite a descrição do embed",
-                needDescription: "Descrição necessaria"
+                description: "Ingrese la descripción para insertar",
+                needDescription: "Descripción requerida"
             }
         },
         {
-            content: "A descrição está vazia"
+            content: "La descripción está vacía"
         },
         {
             contents: {
-                urlThumb: "Envie agora a url da imagem da thumbnail",
-                invalidUrl: "Imagem invalida"
-            }
-        },
-        {
-            contents: {
-                urlImage: "Envie agora a url da imagem",
-                invalidUrl: "Imagem invalida"
+                urlThumb: "Envía la URL de la imagen en miniatura ahora",
+                invalidUrl: "Imagen inválida"
             }
         },
         {
             contents: {
-                textFooter: "Digite o texto do rodapé",
-                imageFooter: "Deseja adicionar uma imagem ao footer",
-                linkImage: "Envie o link da imagem",
-                invalidImage: "**Url Invalida**"
+                urlImage: "Envía la URL de la imagen ahora",
+                invalidUrl: "Imagen inválida"
             }
         },
         {
             contents: {
-                emptyEmbed: "Não pode enviar um embed vazio",
-                endEmbed: "Embed Finalizada e enviada, podes criar uma nova"
+                textFooter: "Introduzca el texto del pie de página",
+                imageFooter: "¿Quieres agregar una imagen al pie de página?",
+                linkImage: "Enviar enlace de imagen",
+                invalidImage: "**URL invalida**"
+            }
+        },
+        {
+            contents: {
+                emptyEmbed: "No se puede enviar una inserción vacía",
+                endEmbed: "Insertar Una vez terminado y enviado, puedes crear un nuevo"
             }
         }
     ]

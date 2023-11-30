@@ -1,16 +1,16 @@
 export default {
     embeds: [
         {
-            title: "Minhas informações",
+            title: "Mis informaciones",
             fields: [
-                { name: "Nome" },
-                { name: "Linguagem" },
-                { name: "Livraria/Versão" },
-                { name: "Versão do NodeJs" },
-                { name: "Servidores" },
-                { name: ":busts_in_silhouette: Total de membros" },
-                { name: "Meu Criador" },
-                { name: "Meus desenvolvedores" }
+                { name: "Nombre" },
+                { name: "lenguaje" },
+                { name: "Librería/Versión" },
+                { name: "Versión de NodeJs" },
+                { name: "" },
+                { name: ":busts_in_silhouette: Miembros totales" },
+                { name: "Mi creador" },
+                { name: "Mis desarrolladores" }
             ]
         }
     ]

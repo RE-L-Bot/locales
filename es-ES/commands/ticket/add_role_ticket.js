@@ -1,6 +1,6 @@
 export default {
     content: {
-        adc1: "adicionado aos ticket",
-        adc2: "Adicionado as menções"
+        adc1: "añadido al billete",
+        adc2: "Menciones agregadas"
     }
 }

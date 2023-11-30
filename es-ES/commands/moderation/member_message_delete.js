@@ -1,6 +1,6 @@
 export default {
     content: {
-        start: "Começando",
-        end: "Pronto, foram apagadas {var1} mensagens de {var2}"
+        start: "Empezando",
+        end: "Bien, se han eliminado {var1} mensajes de {var2}"
     }
 }

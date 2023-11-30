@@ -1,15 +1,15 @@
 export default {
     cases: {
-        ban: "Banimento",
-        kick: "Expulsar",
+        ban: "Prohibición",
+        kick: "Echar a patadas",
     },
     reasons: {
-        ban: "Banido por: {var1}\nMotivo: {var2}",
-        kick: "Expulso por: {var1}\nMotivo: {var2}"
+        ban: "Prohibido por: {var1}\nMotivo: {var2}",
+        kick: "Expulsado por: {var1}\nMotivo: {var2}"
     },
     content: {
-        ban: `{var1}\nMembros banidos com sucesso`,
-        ban: `{var1}\nMembros expulsos com sucesso`,
-        noPerm: "Sem permissão"
+        ban: `{var1}\nMiembros baneados exitosamente`,
+        ban: `{var1}\nMiembros expulsados ​​exitosamente`,
+        noPerm: "Sin permiso"
     }
 }

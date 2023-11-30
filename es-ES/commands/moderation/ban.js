@@ -1,20 +1,20 @@
 export default {
     options: {
-        noReson: "Motivo não informado",
+        noReson: "Razón no dada",
     },
     content: {
-        ids: "Envie os ids dos membros um embaixo do outro",
-        noPermissionBan: "Não consigo banir o membro {var1}",
-        noUser: "{var1} não é um usuario",
-        banNobody: "Não consegui banir ninguem",
-        endTime: "Tempo esgotado"
+        ids: "Enviar ID de miembro uno debajo del otro",
+        noPermissionBan: "No puedo prohibir al miembro. {var1}",
+        noUser: "{var1} no un usuario",
+        banNobody: "No pude prohibir a nadie",
+        endTime: "Tiempo agotado"
     },
     embeds: [
         {
-            title: "Banimento",
+            title: "Prohibición",
             fields: [
                 {
-                    name: "Motivo"
+                    name: "Razón"
                 }
             ]
         }

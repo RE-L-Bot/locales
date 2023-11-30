@@ -1,14 +1,14 @@
 export default {
     embeds: [
         {
-            description: "👉🎤{var1} entrou no canal `{var2}`",
+            description: "👉🎤{var1} se unió al canal `{var2}`",
             footer: {
-                text: "Id do membro: {var1}"
+                text: "Id de miembro: {var1}"
             },
             fields: [
                 {
-                    name: "Quantidade de membros no canal agora",
-                    value: "`{var1} membros`"
+                    name: "Número de miembros en el canal ahora.",
+                    value: "`{var1} miembros`"
                 }
             ]
         }

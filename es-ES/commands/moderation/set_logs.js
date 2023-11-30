@@ -1,6 +1,6 @@
 export default {
     content: {
-        sucess: "Log Definida com sucesso",
-        error: "Aconteceu um erro, entre no meu servidor de suporte para ver oq aconteceu"
+        sucess: "Registro establecido correctamente",
+        error: "Se produjo un error, inicie sesión en mi servidor de soporte para ver qué sucedió"
     }
 }

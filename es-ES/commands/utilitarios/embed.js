@@ -1,16 +1,16 @@
 export default {
     embeds: [
         {
-            title: "O que deseja fazer com o embed",
+            title: "¿Qué quieres hacer con la inserción?",
             description: `
-            1- Criar um embed
-            `
+1- Crea una inserción
+`
         }
     ],
     components: {
         selectMenus: [
             {
-                placeholder: "Oq ira fazer?"
+                placeholder: "¿Qué vas a hacer?"
             }
         ]
     }

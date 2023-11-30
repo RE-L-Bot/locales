@@ -1,16 +1,16 @@
 export default {
     embeds: [
         {
-            description: "Ticket fechado por {var1}\nClique em 🔓 para abrir o reabrir ticker\nClique em 🚫 para deletar o ticket"
+            description: "Ticket cerrado por {var1}\nHaga clic en 🔓 para abrir el ticker de reapertura\nHaga clic en 🚫 para eliminar el ticket"
         }
     ],
     components: {
         buttons: [
             {
-                label: "🔓 Abrir Ticket"
+                label: "🔓 Entrada abierta"
             },
             {
-                label: "🚫 Deletar Ticket"
+                label: "🚫 Eliminar billete"
             }
         ]
     }

@@ -1,20 +1,20 @@
 export default {
     options: {
-        noReson: "Motivo não informado",
+        noReson: "Razón no dada",
     },
     content: {
-        ids: "Envie os ids dos membros um embaixo do outro",
-        noPermissionKick: "Não consigo expulsar o membro {var1}",
-        noUser: "{var1} não é um usuario",
-        kickNobody: "Não consegui expulsar ninguem",
-        endTime: "Tempo esgotado"
+        ids: "Enviar ID de miembro uno debajo del otro",
+        noPermissionKick: "No puedo expulsar al miembro {var1}",
+        noUser: "{var1} no un usuario",
+        kickNobody: "no pude expulsar a nadie",
+        endTime: "Tiempo agotado"
     },
     embeds: [
         {
-            title: "Expulsar",
+            title: "Echar a patadas",
             fields: [
                 {
-                    name: "Motivo"
+                    name: "Razón"
                 }
             ]
         }

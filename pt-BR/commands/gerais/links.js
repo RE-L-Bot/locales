@@ -1,7 +1,7 @@
 export default {
     embeds: [
         {
-            title: "Meus liks",
+            title: "Meus links",
             description: "Aqui estão meus links, só clicar nos botões para ser redirecionado"
         }
     ],

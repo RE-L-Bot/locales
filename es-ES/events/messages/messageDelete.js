@@ -1,13 +1,13 @@
 export default {
     embeds: [
         {
-            title: "Mensagem deletada",
+            title: "Mensaje borrado",
             description: `
-📝 Mensagem de texto apagada
+📝mensaje de texto eliminado
 \`\`\`{var1}\`\`\`
 `,
             footer: {
-                text: "Id do membro {var1}"
+                text: "Id de miembro {var1}"
             }
         }
     ]

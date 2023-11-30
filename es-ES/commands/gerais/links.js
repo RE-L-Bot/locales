@@ -1,17 +1,17 @@
 export default {
     embeds: [
         {
-            title: "Meus liks",
-            description: "Aqui estão meus links, só clicar nos botões para ser redirecionado"
+            title: "Mis enlaces",
+            description: "Aquí están mis enlaces, simplemente haga clic en los botones para ser redirigido."
         }
     ],
     components: {
         buttons: {
             style: {
                 link: {
-                    inviteBot: "Clique aqui para me convidar",
-                    inviteGuildSuport: "Clique aqui para entrar no meu servidor de suporte",
-                    linkdashboard: "Clique aqui para ir para minha dashboard"
+                    inviteBot: "Haz clic aquí para invitarme",
+                    inviteGuildSuport: "Haga clic aquí para unirse a mi servidor de soporte",
+                    linkdashboard: "Haga clic aquí para ir a mi panel de control"
                 }
             }
         }
