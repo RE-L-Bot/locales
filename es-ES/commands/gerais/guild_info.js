@@ -29,5 +29,12 @@ export default {
                 label: "Mostrar roles de servidor"
             }
         ]
-    }
+    },
+    VerificationLevel: {
+        0: "Ninguno",
+        1: "bajo",
+        2: "promedio",
+        3: "alto",
+        4: "Muy alto"
+    },
 }

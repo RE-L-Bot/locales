@@ -29,5 +29,12 @@ export default {
                 label: "Show guild roles"
             }
         ]
-    }
+    },
+    verificationLevel: {
+        0: "None",
+        1: "Low",
+        2: "Average",
+        3: "High",
+        4: "Very high"
+    },
 }

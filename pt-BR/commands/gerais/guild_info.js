@@ -29,5 +29,12 @@ export default {
                 label: "Mostrar cargos do sevidor"
             }
         ]
-    }
+    },
+    verificationLevel: {
+        0: "Nenhum",
+        1: "Baixa",
+        2: "Média",
+        3: "Alta",
+        4: "Muito alta"
+    },
 }
