@@ -1,5 +1,5 @@
 export default {
-    messagePermision: "You need {var1} permission for this",
+    messagePermission: "You need {var1} permission for this",
     1: "Create invitation",
     2: "expelling members",
     4: "ban members",
