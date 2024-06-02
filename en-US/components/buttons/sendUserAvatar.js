@@ -5,11 +5,4 @@ export default {
             description: "Click [here]({var1}) to download the image"
         }
     ],
-    components: {
-        buttons: [
-            {
-                label: "User Avatar"
-            }
-        ]
-    }
 }
