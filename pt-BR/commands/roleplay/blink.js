@@ -1,7 +1,7 @@
 export default {
     content: {
         self: "Picou para si mesmo no espelho??",
-        bot: "Isso é um flerte, eu não gosto dessas coisas"
+        bot: "Isso é um flerte?\nEu não gosto dessas coisas"
     },
     embeds: [
         {

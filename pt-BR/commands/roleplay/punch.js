@@ -1,6 +1,6 @@
 export default {
     content: {
-        self: "Ficou doido de vez, esta se socando"
+        self: "Ficou doido de vez, esta se socando",
     },
     embeds: [
         {

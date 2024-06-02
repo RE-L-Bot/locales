@@ -1,6 +1,6 @@
 export default {
     content: {
-        self: "Atirou em uma chama de metal e acertou si mesmo??",
+        self: "Atirou em uma chapa de metal e acertou si mesmo??",
         bot: "Você não achou que faria isso comigo né?"
     },
     embeds: [

@@ -1,6 +1,6 @@
 export default {
     content: {
-        self: "Seguro a propria mão?",
+        self: "Segurou a propria mão?",
         bot: "Ok, mas nos somo só amigos"
     },
     embeds: [
