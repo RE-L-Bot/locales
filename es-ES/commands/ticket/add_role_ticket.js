@@ -1,6 +1,21 @@
 export default {
     content: {
-        adc1: "añadido al billete",
-        adc2: "Menciones agregadas"
+        qual: "¿Qué tipo agregarás?",
+    },
+    components: {
+        buttons: [
+            {
+                type: 2,
+                label: "Asistente",
+                style: 1,
+                custom_id: "adcRolesTicketAtt"
+            },
+            {
+                type: 2,
+                label: "Mencionado",
+                style: 1,
+                custom_id: "adcRolesTicketMention"
+            }
+        ]
     }
 }

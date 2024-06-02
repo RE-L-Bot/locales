@@ -5,7 +5,7 @@ export default {
     content: {
         ids: "Enviar ID de miembro uno debajo del otro",
         noPermissionKick: "No puedo expulsar al miembro {var1}",
-        noUser: "{var1} no un usuario",
+        noUserInGuild: "{var1} no es usuario o no está en el servidor",
         kickNobody: "no pude expulsar a nadie",
         endTime: "Tiempo agotado"
     },
