@@ -1,2 +1,2 @@
-# locales
-Arquivos de tradução da RE=L
+# Locations
+RE=L Translation Files
