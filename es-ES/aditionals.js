@@ -5,5 +5,6 @@ export default {
     event: "Evento",
     registro: "Registro",
     tck: "Ticket",
-    utc: "Utilidades"
+    utc: "Utilidades",
+    msgDefaultNoPermUseCommandsInChannel: "You can't use commands on this channel"
 }
