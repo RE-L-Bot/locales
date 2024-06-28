@@ -6,5 +6,5 @@ export default {
     registro: "Registro",
     tck: "Ticket",
     utc: "Utilidades",
-    msgDefaultNoPermUseCommandsInChannel: "You can't use commands on this channel"
+    msgDefaultNoPermUseCommandsInChannel: "No se pueden usar comandos en este canal"
 }
