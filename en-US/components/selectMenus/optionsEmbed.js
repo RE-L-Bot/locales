@@ -12,7 +12,7 @@ export default {
 4- Remove field
 5- Add color
 6- Add description
-7- Shows what is in the description
+7- Shows embed
 8- Add thumbnail
 9- Add Image
 10- Add footer

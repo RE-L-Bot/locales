@@ -12,7 +12,7 @@ export default {
 4- Remover campo
 5- Adicionar cor
 6- Adicionar descrição
-7- Mostra o que estiver dentro da descrição
+7- Mostra a embed
 8- Adicionar thumbnail
 9- Adicionar Imagem
 10- Adicionar rodapé

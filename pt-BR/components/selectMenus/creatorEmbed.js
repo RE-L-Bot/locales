@@ -30,7 +30,8 @@ export default {
             }
         },
         {
-            content: "Qual a posição do campo que você quer remover?(1,2,3...)"
+            content: "Qual a posição do campo que você quer remover?(1,2,3...)",
+            noFildInThisPosition: "Nenhum campo nesse valor"
         },
         {
             contents: {
@@ -54,7 +55,7 @@ Selecione a cor
             }
         },
         {
-            content: "A descrição está vazia"
+            content: "A embed está vazia"
         },
         {
             contents: {

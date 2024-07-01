@@ -12,7 +12,7 @@ export default {
 4- Eliminar campo
 5- Añade color
 6- Agregar descripción
-7- Muestra lo que hay en la descripción.
+7- Muestra la embed.
 8- Agregar miniatura
 9- Agregar imagen
 10- Agregar pie de página
