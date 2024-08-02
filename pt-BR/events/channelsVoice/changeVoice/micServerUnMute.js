@@ -14,7 +14,7 @@ export default {
                     inline: false
                 },
                 {
-                    name: "Canal que o membro foi desmutado?",
+                    name: "Canal que o membro foi desmutado",
                     value: "{var1}"
                 }
             ],

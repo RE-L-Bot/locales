@@ -1,20 +1,20 @@
 export default {
     embeds: [
         {
-            description: "🔇Membro mutado",
+            description: "🔇Membro desensurdecido",
             fields: [
                 {
-                    name: "Quem foi mutado",
+                    name: "Quem foi desensurdecido",
                     value: "{var1}",
                     inline: false
                 },
                 {
-                    name: "Quem mutou",
+                    name: "Quem desensurdeceu",
                     value: "{var1}",
                     inline: false
                 },
                 {
-                    name: "Canal que o membro foi mutado",
+                    name: "Canal que o membro foi desensurdecido",
                     value: "{var1}"
                 }
             ],
