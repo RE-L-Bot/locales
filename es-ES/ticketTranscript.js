@@ -5,6 +5,6 @@ export default {
     qntMsg: "Número de mensajes",
     staffInChannel: "Personal en el canal",
     membersInChannel: "Miembros en el ticket",
-    membersMentionedInChannel: "Desarrollado y distribuido por",
-    poweredBy: "Usuarios mencionados en el ticket"
+    membersMentionedInChannel: "Usuarios mencionados en el ticket",
+    poweredBy: "Desarrollado y distribuido por"
 }
