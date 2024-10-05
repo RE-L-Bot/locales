@@ -1,4 +1,5 @@
 export default {
+    content: "Arquivos na mensagem enviada",
     embeds: [
         {
             title: "Mensagem deletada",
